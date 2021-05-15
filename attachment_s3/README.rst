@@ -90,7 +90,7 @@ Contributors
   * Lucas Soto <lsoto@ganargan.ar>
   * Leandro Ramírez <lramirez@ganargan.ar>
 
-* `Camptocamp <https://www.camptocamp.com/>`_:
+* `Camptocamp <https://www.camptocamp.com/>`_
 
 Maintainers
 ~~~~~~~~~~~
